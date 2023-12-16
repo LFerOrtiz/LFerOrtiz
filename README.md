@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis Fernando
-- Mechatronic engineer, technology and music lover.
-- Learning new things all the time and reinforcing what I have learned. Currently learning artificial intelligence with TensorFlow and ROS.
+- I´m a Mechatronic engineer, who loves the technology and music.
+- I like to learning new things all the time and reinforcing what I have learned. Currently learning artificial intelligence for apply on robotics with ROS.
 
 <!---
 LFerOrtiz/LFerOrtiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
